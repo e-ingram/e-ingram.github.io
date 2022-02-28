@@ -1,0 +1,70 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+@import url('https://fonts.googleapis.com/css2?family=Domine&display=swap');
+} 
+
+.container{
+    width: 600px;
+    height: 400px;
+    background-color: rgb(255, 255, 255);  
+    border: 2px solid rgb(161, 161, 161); 
+    border-radius: 20px;
+    overflow: hidden; 
+    margin: 50px auto;
+}
+
+.turquoise{
+    background-color: rgb(55, 166, 170);
+    width: 800px;
+    height: 100px;
+}
+
+.fenpic {
+    height: 110%;
+    width: 14%;
+    border-radius: 50%;
+    margin: 0px auto;
+    overflow: hidden;
+    position: relative;
+    top: 45%;
+    left: 4%;
+}
+
+.white{
+    width: 800px;
+    height: 300px;
+    padding-top: 70px;
+    padding-left: 30px;
+}
+
+.second{
+    display: inline-block;
+}
+
+h2{
+    display: inline-block;
+    font-size: 24pt;
+    margin-left: 10pt;
+}
+p{
+    font-size: 16pt;
+    margin-top: 5px;
+}
+
+h1{
+    font-size: 30pt;
+}
+
+.gear{
+    font-size: 16pt;
+    margin-top: 15px;
+}
+
+/* .fenpic img{
+    width: 100%;
+
+} */
